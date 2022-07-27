@@ -1,0 +1,21 @@
+Q.4 
+The best project that I have worked on my student detail web application where I used the CRUD application where anybody can create a field of details where anybody can update,create,delete and edit their detials which are stored in all user list component. 
+I used material UI in React with node js as the backend.The database was uploaded on the mongoDB server. This was my first porject while learing react and I learned alot about React. 
+
+
+The another project that i worked on was with my team where we fetched twitter api and used NLP to process our US Airline data. The project main idea was to use Sentimental analysis on 
+our data that was fetched from Twitter and predict weather the reviews were of good, bad, or mixed reaction 
+It helps the company to identify the sentimenets about the company in public forum such as twitter 
+to better build their project
+
+Link - 
+https://github.com/sp5327/SentimentAnalysis
+
+
+Q.5 If you are to start a software company, name 2 people from your batch whom you
+will choose as your partner and why?
+
+Rakshit - He is smart, very good at handling the situation at difficult time part and he is good listener 
+Mansi - she is smart and always strives for the best 
+
+these two will be the perfect combination for leader to have for its team. 
